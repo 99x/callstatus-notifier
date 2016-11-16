@@ -15,3 +15,8 @@ D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Model
 D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.dll
 D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.pdb
 D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\dilanwi\Documents\GitHub\callstatus-notifier\Models\bin\Debug\Models.dll
+C:\Users\dilanwi\Documents\GitHub\callstatus-notifier\Models\bin\Debug\Models.pdb
+C:\Users\dilanwi\Documents\GitHub\callstatus-notifier\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\dilanwi\Documents\GitHub\callstatus-notifier\Models\obj\Debug\Models.dll
+C:\Users\dilanwi\Documents\GitHub\callstatus-notifier\Models\obj\Debug\Models.pdb
