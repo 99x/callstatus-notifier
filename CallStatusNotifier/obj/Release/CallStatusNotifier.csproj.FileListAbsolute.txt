@@ -1,0 +1,15 @@
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\CallStatusNotifier.exe.config
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\CallStatusNotifier.exe
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\CallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\Newtonsoft.Json.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\Particle.SDK.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\bin\Release\Newtonsoft.Json.xml
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\obj\Release\CallStatusNotifier.csprojResolveAssemblyReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\obj\Release\CallStatusNotifier.Properties.Resources.resources
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\obj\Release\CallStatusNotifier.csproj.GenerateResource.Cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\obj\Release\CallStatusNotifier.exe
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\CallStatusNotifier\obj\Release\CallStatusNotifier.pdb

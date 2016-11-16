@@ -1,0 +1,48 @@
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\Interop.SKYPE4COMLib.dll
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.dll
+E:\IoT\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.pdb
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.pdb
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.pdb
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\Interop.SKYPE4COMLib.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll.config
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll.config
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\Interop.SKYPE4COMLib.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll.config
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\SkypeCallStatusNotifier.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Debug\Models.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Debug\SkypeCallStatusNotifier.pdb

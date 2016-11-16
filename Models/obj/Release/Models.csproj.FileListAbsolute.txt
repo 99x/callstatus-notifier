@@ -1,0 +1,4 @@
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\Models\bin\Release\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\Models\bin\Release\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\Models\obj\Release\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\Models\obj\Release\Models.pdb

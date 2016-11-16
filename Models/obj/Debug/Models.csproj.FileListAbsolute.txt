@@ -1,0 +1,17 @@
+E:\IoT\CallStatusNotifier\Models\bin\Debug\Models.dll
+E:\IoT\CallStatusNotifier\Models\bin\Debug\Models.pdb
+E:\IoT\CallStatusNotifier\Models\obj\Debug\Models.dll
+E:\IoT\CallStatusNotifier\Models\obj\Debug\Models.pdb
+D:\IoT\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.pdb
+D:\IoT\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.dll
+D:\IoT\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.2\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\bin\Debug\Models.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.dll
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.pdb
+D:\IoT\Latest\CallStatusNotifierV1.5\CallStatusNotifier\CallStatusNotifier\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
