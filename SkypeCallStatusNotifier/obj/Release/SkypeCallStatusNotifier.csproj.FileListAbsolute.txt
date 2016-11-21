@@ -1,0 +1,10 @@
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Release\SkypeCallStatusNotifier.dll.config
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Release\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Release\SkypeCallStatusNotifier.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Release\Models.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\bin\Release\Models.pdb
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Release\SkypeCallStatusNotifier.csprojResolveAssemblyReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Release\Interop.SKYPE4COMLib.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Release\SkypeCallStatusNotifier.csproj.ResolveComReference.cache
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Release\SkypeCallStatusNotifier.dll
+E:\IoT\from Dilan\CallStatusNotifierV1.4\CallStatusNotifier\CallStatusNotifier\SkypeCallStatusNotifier\obj\Release\SkypeCallStatusNotifier.pdb

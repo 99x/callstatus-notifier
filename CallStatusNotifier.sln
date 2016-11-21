@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStatusNotifier", "CallStatusNotifier\CallStatusNotifier.csproj", "{F82F0265-AA7D-41E8-922F-33571E363096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeCallStatusNotifier", "SkypeCallStatusNotifier\SkypeCallStatusNotifier.csproj", "{49C9E564-FC5C-4E8B-96BC-DA02BB79D858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{43725046-A0BC-459A-B885-369B3669FED8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CallStatusNotifierInstaller", "CallStatusNotifierInstaller\CallStatusNotifierInstaller.vdproj", "{44FD00A4-5D1F-4288-A939-DBF73ADDA433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82F0265-AA7D-41E8-922F-33571E363096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82F0265-AA7D-41E8-922F-33571E363096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82F0265-AA7D-41E8-922F-33571E363096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82F0265-AA7D-41E8-922F-33571E363096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C9E564-FC5C-4E8B-96BC-DA02BB79D858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C9E564-FC5C-4E8B-96BC-DA02BB79D858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C9E564-FC5C-4E8B-96BC-DA02BB79D858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C9E564-FC5C-4E8B-96BC-DA02BB79D858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43725046-A0BC-459A-B885-369B3669FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43725046-A0BC-459A-B885-369B3669FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43725046-A0BC-459A-B885-369B3669FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43725046-A0BC-459A-B885-369B3669FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FD00A4-5D1F-4288-A939-DBF73ADDA433}.Debug|Any CPU.ActiveCfg = Debug
+		{44FD00A4-5D1F-4288-A939-DBF73ADDA433}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
