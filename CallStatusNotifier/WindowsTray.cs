@@ -29,6 +29,8 @@ namespace CallStatusNotifier
         ParticleDevice myDevice = null;
         bool deviceSuccessfullyInitiated = false;
 
+        static readonly Font trayFont = new Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0))); 
+
         public WindowsTray(string[] args)
         {
             InitializeComponent();
@@ -61,7 +63,7 @@ namespace CallStatusNotifier
 
         private void InitializeComponent()
         {
-            icon = new System.Drawing.Icon(@"play-normal-1.ico");
+            icon = new System.Drawing.Icon(TrayResources.IconPath);
             component = new System.ComponentModel.Container();
             trayIcon = new NotifyIcon(component);
             trayIcon.Text = "Call Notifier";
@@ -80,19 +82,19 @@ namespace CallStatusNotifier
                 exit
             });
 
-            startNotifier.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            startNotifier.Font = trayFont;
             startNotifier.Text = "Start Notifier";
             startNotifier.Click += new EventHandler(StartNotifierClicked);
 
-            endNotifier.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            endNotifier.Font = trayFont;
             endNotifier.Text = "End Notifier";
             endNotifier.Click += new EventHandler(EndNotifierClicked);
 
-            triggerBuzzer.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            triggerBuzzer.Font = trayFont;
             triggerBuzzer.Text = "Trigger Buzzer";
             triggerBuzzer.Click += triggerBuzzer_Click;
 
-            exit.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            exit.Font = trayFont;
             exit.Text = "Exit";
             exit.Click += new EventHandler(ExitClicked);
         }
@@ -143,7 +145,7 @@ namespace CallStatusNotifier
         private async Task LoginToCloudAndGetDevice()
         {
             ParticleCloud.SharedCloud.SynchronizationContext = System.Threading.SynchronizationContext.Current;
-            var success = await ParticleCloud.SharedCloud.TokenLoginAsync("c078178825f98c72c7ea62fd3eb0cc81207553db");
+            var success = await ParticleCloud.SharedCloud.TokenLoginAsync(TrayResources.ParticleToken);
             if (success)
             {
                 List<ParticleDevice> devices = await ParticleCloud.SharedCloud.GetDevicesAsync();

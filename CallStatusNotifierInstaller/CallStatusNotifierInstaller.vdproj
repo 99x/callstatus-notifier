@@ -15,26 +15,26 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0CB98B63307042499F9B1DC4AAC19C99"
+        "MsmKey" = "8:_23CE21A2406C46A98CCFFD2129A9E279"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4A492B6C5935102CEB1C976C24BECF80"
+        "MsmKey" = "8:_625A232A2F380BC5F335A314F47122C5"
         "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4A492B6C5935102CEB1C976C24BECF80"
-        "OwnerKey" = "8:_E9515D571CA271442E03C5588AFBA2B9"
+        "MsmKey" = "8:_65BA16EF4EF7FDA9FF5B10823524E9E0"
+        "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_80C918D9535CB8D4A3323CA075024DFF"
-        "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
+        "MsmKey" = "8:_65BA16EF4EF7FDA9FF5B10823524E9E0"
+        "OwnerKey" = "8:_625A232A2F380BC5F335A314F47122C5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -52,55 +52,55 @@
         "Entry"
         {
         "MsmKey" = "8:_D132CE1EB5F9EECCFE002F77CCE24554"
-        "OwnerKey" = "8:_E9515D571CA271442E03C5588AFBA2B9"
+        "OwnerKey" = "8:_EF10C0D953ECA40C091E86F3EC00A08E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E146902606E4ED9740F6C78C2F6C943C"
+        "MsmKey" = "8:_E7D04888D4DA404D9F97040EA923654E"
         "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E146902606E4ED9740F6C78C2F6C943C"
-        "OwnerKey" = "8:_80C918D9535CB8D4A3323CA075024DFF"
+        "MsmKey" = "8:_E7D04888D4DA404D9F97040EA923654E"
+        "OwnerKey" = "8:_EF10C0D953ECA40C091E86F3EC00A08E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E9515D571CA271442E03C5588AFBA2B9"
-        "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_EF10C0D953ECA40C091E86F3EC00A08E"
         "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_80C918D9535CB8D4A3323CA075024DFF"
+        "OwnerKey" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E9515D571CA271442E03C5588AFBA2B9"
+        "OwnerKey" = "8:_625A232A2F380BC5F335A314F47122C5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4A492B6C5935102CEB1C976C24BECF80"
+        "OwnerKey" = "8:_EF10C0D953ECA40C091E86F3EC00A08E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E146902606E4ED9740F6C78C2F6C943C"
+        "OwnerKey" = "8:_E7D04888D4DA404D9F97040EA923654E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_65BA16EF4EF7FDA9FF5B10823524E9E0"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -166,6 +166,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
             }
         }
     }
@@ -224,9 +232,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0CB98B63307042499F9B1DC4AAC19C99"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_23CE21A2406C46A98CCFFD2129A9E279"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\IoT\\CallStatusNotifier\\CallStatusNotifier\\Images\\play-normal-1.ico"
+            "SourcePath" = "8:..\\CallStatusNotifier\\play-normal-1.ico"
             "TargetName" = "8:play-normal-1.ico"
             "Tag" = "8:"
             "Folder" = "8:_161BAC7AC5714428A1C6272EE3119193"
@@ -244,20 +252,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4A492B6C5935102CEB1C976C24BECF80"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_625A232A2F380BC5F335A314F47122C5"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:SkypeCallStatusNotifier, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_4A492B6C5935102CEB1C976C24BECF80"
+                    "_625A232A2F380BC5F335A314F47122C5"
                     {
-                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Name" = "8:SkypeCallStatusNotifier.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Newtonsoft.Json.dll"
+            "SourcePath" = "8:SkypeCallStatusNotifier.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_161BAC7AC5714428A1C6272EE3119193"
@@ -275,20 +283,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_80C918D9535CB8D4A3323CA075024DFF"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_65BA16EF4EF7FDA9FF5B10823524E9E0"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:SkypeCallStatusNotifier, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_80C918D9535CB8D4A3323CA075024DFF"
+                    "_65BA16EF4EF7FDA9FF5B10823524E9E0"
                     {
-                    "Name" = "8:SkypeCallStatusNotifier.dll"
+                    "Name" = "8:Models.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:SkypeCallStatusNotifier.dll"
+            "SourcePath" = "8:Models.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_161BAC7AC5714428A1C6272EE3119193"
@@ -337,20 +345,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E146902606E4ED9740F6C78C2F6C943C"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7D04888D4DA404D9F97040EA923654E"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_E146902606E4ED9740F6C78C2F6C943C"
+                    "_E7D04888D4DA404D9F97040EA923654E"
                     {
-                    "Name" = "8:Models.dll"
+                    "Name" = "8:Newtonsoft.Json.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Models.dll"
+            "SourcePath" = "8:Newtonsoft.Json.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_161BAC7AC5714428A1C6272EE3119193"
@@ -368,14 +376,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E9515D571CA271442E03C5588AFBA2B9"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EF10C0D953ECA40C091E86F3EC00A08E"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Particle.SDK, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_E9515D571CA271442E03C5588AFBA2B9"
+                    "_EF10C0D953ECA40C091E86F3EC00A08E"
                     {
                     "Name" = "8:Particle.SDK.dll"
                     "Attributes" = "3:512"
@@ -484,7 +492,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_0CB98B63307042499F9B1DC4AAC19C99"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -587,7 +595,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_B7D4B323018946E09B1E75D669F04AB7"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_41453839BCBF42B696641780F2823BBC"
             {
             "Name" = "8:Call Status Notifier"
             "Arguments" = "8:"
@@ -598,13 +606,13 @@
             "Target" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
             "Folder" = "8:_76E919C6C9AE441BA5A884C7D682E7E1"
             "WorkingFolder" = "8:_161BAC7AC5714428A1C6272EE3119193"
-            "Icon" = "8:_0CB98B63307042499F9B1DC4AAC19C99"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F805B6E30FC945A39DD3EF4BD045AA3B"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_6217F224B8A745BEA2BB1C2A71CF624D"
             {
             "Name" = "8:Call Status Notifier"
-            "Arguments" = "8:fromStartUp"
+            "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
@@ -612,7 +620,7 @@
             "Target" = "8:_97F5BF4AEC1248A28F2FD848546A3524"
             "Folder" = "8:_D15AF11342E3478FB099DA691D458E1C"
             "WorkingFolder" = "8:_161BAC7AC5714428A1C6272EE3119193"
-            "Icon" = "8:_0CB98B63307042499F9B1DC4AAC19C99"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
